@@ -1,0 +1,30 @@
+
+ ========================================
+ Usage Information
+ For: 8422453f1ec2948698f59163667ced9b9ad50def
+ ========================================
+ Meter Reading Information
+ Type of readings: Electricity, Energy Consumption, Real energy in kilowatt-hours 
+ ========================================
+ Detailed Usage
+ ========================================
+ Start date: 2023-02-20 00:00 for 33 days
+ ========================================
+ Interval Blockdata for period starting:, 2023-02-20 00:00  for 33 days
+ ========================================
+ Energy consumption time period,Usage(Real energy in kilowatt-hours),Cost(US Dollar),Events occurred
+ 2023-02-20 00:00 to 2023-03-25 01:00,"3,237.000",263.42,0
+ 
+ ========================================
+ Meter Reading Information
+ Type of readings: Electricity, Energy Consumption, Real energy in kilowatts 
+ ========================================
+ Detailed Usage
+ ========================================
+ Start date: 2023-02-20 00:00 for 33 days
+ ========================================
+ Interval Blockdata for period starting:, 2023-02-20 00:00  for 33 days
+ ========================================
+ Energy consumption time period,Usage(Real energy in kilowatts),Events occurred
+ 2023-02-20 00:00 to 2023-03-25 01:00,14.726,,0
+  
